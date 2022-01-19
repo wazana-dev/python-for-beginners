@@ -25,11 +25,12 @@
   </a>
 </p>
 
+**Playlist:** [Python para Iniciantes](https://www.wazana.dev/playlist/python-para-iniciantes).
+
 ## Introdução
 
- Este tutorial foi criado para quem tem conhecimentos básicos de programação e está interessado em aprender Python pelo nível mais básico.
+Este tutorial foi criado para quem tem conhecimentos básicos de programação e está interessado em aprender Python pelo nível mais básico.
  
-  **Playlist:** [Python para Iniciantes](https://www.wazana.dev/playlist/python-para-iniciantes).
  
 ### Nível
 - [x] - Básico
